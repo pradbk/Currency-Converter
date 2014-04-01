@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Conversion</string>
+    <string name="from_label">FROM: </string>
+    <string name="to_label" > TO: </string>
+    <string name="qty_label">QTY: </string>
+    <string name="result_label">Result:  </string>
+</resources>
