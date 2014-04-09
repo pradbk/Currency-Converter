@@ -7,8 +7,6 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import com.amtel.rateconversion.R;
 import com.prad.rateconversion.values.ConversionValue;
 
 /**

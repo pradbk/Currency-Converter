@@ -11,7 +11,7 @@ import android.widget.AdapterView;
 import android.widget.ListAdapter;
 import android.widget.TextView;
 
-import com.amtel.rateconversion.R;
+
 
 /**
  * Created by pradeepbk on 3/31/14.

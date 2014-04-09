@@ -12,7 +12,6 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.amtel.rateconversion.R;
 import com.prad.rateconversion.values.ConversionValue;
 
 import org.apache.http.HttpEntity;
