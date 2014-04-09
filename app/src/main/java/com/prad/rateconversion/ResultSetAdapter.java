@@ -1,4 +1,4 @@
-package com.amtel.rateconversion;
+package com.prad.rateconversion;
 
 import android.text.Html;
 import android.view.LayoutInflater;
@@ -8,7 +8,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.amtel.rateconversion.values.ConversionValue;
+import com.amtel.rateconversion.R;
+import com.prad.rateconversion.values.ConversionValue;
 
 /**
  * Created by pradeepbk on 3/31/14.

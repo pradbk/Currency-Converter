@@ -1,4 +1,4 @@
-package com.amtel.rateconversion;
+package com.prad.rateconversion;
 
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
@@ -12,7 +12,8 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.amtel.rateconversion.values.ConversionValue;
+import com.amtel.rateconversion.R;
+import com.prad.rateconversion.values.ConversionValue;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

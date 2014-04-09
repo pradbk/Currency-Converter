@@ -1,4 +1,4 @@
-package com.amtel.rateconversion.values;
+package com.prad.rateconversion.values;
 
 import java.util.ArrayList;
 import java.util.List;
